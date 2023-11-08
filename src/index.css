@@ -599,6 +599,14 @@ Image Container CSS
   .images-container {
     grid-template-columns: 1fr 1fr;
   }
+
+  .search-form {
+    width: 600px;
+  }
+
+  .suggestions {
+    flex-wrap: nowrap;
+  }
 }
 
 @media (min-width: 992px) {
